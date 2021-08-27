@@ -1,5 +1,5 @@
 # API_Monte_Carlo_Project
-## M​Monte Carlo Simulations
+## Monte Carlo Simulations
 
 ![Financial Planner](Images/financial-planner.png)
 
